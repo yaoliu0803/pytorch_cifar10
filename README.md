@@ -8,10 +8,10 @@
 
 ## 运行效果图
  训练集可视化：
- ![训练集可视化](images/visiualize)
+ ![训练集可视化](images/visialize.png)
  
  测试结果：
- ![测试结果](images/result)
+ ![测试结果](images/result.png)
 
 
 ## 参考链接
