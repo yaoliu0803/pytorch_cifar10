@@ -1,0 +1,2 @@
+# pytorch_cifar10
+使用PyTorch训练简单CIFAR10图片分类器
